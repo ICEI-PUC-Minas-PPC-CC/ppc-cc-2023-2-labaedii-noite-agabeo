@@ -9,7 +9,7 @@
 - Brenda Tristão
 - Gabriel Lago
 - Matheus Piza
-- letícia Vicente Teodoro
+- Letícia Vicente Teodoro
 
 # Documentação
 
