@@ -24,6 +24,7 @@ typedef struct{
   char nome[50];
   int latitude[14];
   int longitude[18];
+  int visitasPorMes[10];
  int qntdDeEstrelas[5];
 }PontosMaisVisitados;
 
