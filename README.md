@@ -6,9 +6,9 @@
 
 ## Integrantes
 
-- Brenda Tristão
-- Gabriel Lago
-- Matheus Piza
+- Brenda Caroline Tristão
+- Gabriel Alencar do Lago
+- Matheus Piza Batiston
 - Letícia Vicente Teodoro
 
 # Documentação
